@@ -7,3 +7,5 @@ if($idade == 26){
 }else{
     echo 'falso';
 }
+
+?>
